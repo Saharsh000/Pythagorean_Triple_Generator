@@ -1,4 +1,4 @@
-# Pythagorean_Triplets
+# Pythagorean Triplets
 This Python script generates exactly **10,000 Pythagorean triples** using a mathematical method that ensures all generated triples satisfy the equation: a² + b² = c².
  - Please note that it is almost completely useless. This program is created because I was bored and wanted to make something funny lmao..
 
@@ -45,9 +45,9 @@ If you'd like to print a subset of the triples (for example, the first 10 triple
 for triple in pythagorean_triples[:10]:
     print(triple)
 ```
--Thank you for viewing my code.
--If this helps, please star my repository!
--Have a nice day!!!
+- Thank you for viewing my code.
+- If this helps, please star my repository!
+- Have a nice day!!!
 
 
 
