@@ -1,11 +1,11 @@
-# Pythagorean Triplets
+# Pythagorean Triplets 🔺
 This Python script generates exactly **10,000 Pythagorean triples** using a mathematical method that ensures all generated triples satisfy the equation: a² + b² = c².
- - Please note that it is almost completely useless. This program is created because I was bored and wanted to make something funny lmao..
+ - Please note that it is almost completely useless.😁 This program is created because I was bored and wanted to make something funny lmao..
 
 
-In a Pythagorean triple, `a`, `b`, and `c` represent the sides of a right-angled triangle, where `a` and `b` are the base and height and `c` is the hypotenuse.
+In a Pythagorean triple, `a`, `b`, and `c` represent the sides of a right-angled triangle, where `a` and `b` are the base and height and `c` is the hypotenuse. 
 
-## How It Works
+## How It Works 👷‍♂️
 
 The script utilizes the following formula, based on two positive integers `m` and `n` (where `m > n`), to generate **primitive Pythagorean triples**:
 
@@ -19,7 +19,7 @@ To ensure that `a`, `b`, and `c` form a valid Pythagorean triple, `m` and `n` mu
 
 After generating a **primitive triple**, the script produces **non-primitive triples** by multiplying the primitive triple by integer values `k`. This helps ensure that we generate enough triples to reach the goal of **10,000**.
 
-### Code Flow
+### Code Flow ⏳
 
 1. **Triple Generation**:
    - The script starts with `m = 2` and increases `m` while iterating over valid values of `n` such that `m > n`.
@@ -45,9 +45,9 @@ If you'd like to print a subset of the triples (for example, the first 10 triple
 for triple in pythagorean_triples[:10]:
     print(triple)
 ```
-- Thank you for viewing my code.
-- If this helps, please star my repository!
-- Have a nice day!!!
+- Thank you for viewing my code. 😄
+- If this helps, please star my repository! ⭐
+- Have a nice day!!! 👋
 
 
 
