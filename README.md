@@ -32,13 +32,22 @@ After generating a **primitive triple**, the script produces **non-primitive tri
 3. **Output**:
    - Once the script reaches **10,000** triples, it prints the results to the console. You can also limit the number of printed triples to a smaller number for easier viewing.
 
-### Usage
-
+### Installation
 To run the script and generate **10,000** Pythagorean triples, simply execute it in your Python environment:
 
+## Installation 💻
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Saharsh000/Pythagorean_Triple_Generator.git
+   cd Pythagorean_Triple_Generator
+   ```
+
+2. **Run the Program**:   
 ```bash
 python code.py
 ```
+
 ### Customization
 If you'd like to print a subset of the triples (for example, the first 10 triples), you can modify the print loop like this:
 ```bash
