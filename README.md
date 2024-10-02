@@ -54,9 +54,12 @@ If you'd like to print a subset of the triples (for example, the first 10 triple
 for triple in pythagorean_triples[:10]:
     print(triple)
 ```
-- Thank you for viewing my code. 😄
-- If this helps, please star my repository! ⭐
-- Have a nice day!!! 👋
+
+# Thank You 😄
+- Well, thank you for reading.
+- As always, if you have any issues with the program, you can contact me on discord(metagross2010ss) or email me.
+- If you have liked this, please star the repo!! ⭐
+- Have a nice day :D !!!! 👋
 
 
 
